@@ -1,0 +1,27 @@
+.layout{
+  display: block!important;
+  margin: 0px auto;
+  width: 960px;
+  padding:0px 10px;
+  
+}
+.appBar{
+  background-color: purple;
+  padding:10px;
+}
+
+.title{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none!important;
+    letter-spacing: 5px;
+}
+
+.links{
+  margin-left : 20px;
+  color: antiquewhite;
+  float: right;
+  text-decoration: none!important;
+
+}
+  
